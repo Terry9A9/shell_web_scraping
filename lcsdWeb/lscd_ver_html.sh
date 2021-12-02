@@ -3,7 +3,7 @@ up=$(echo $1 | tr '[:upper:]' '[:lower:]')
 total=0
 url="https://www.lcsd.gov.hk/clpss/en/webApp/Facility/District.do?ftid=42"
 urlname=$(echo $url | cut -d "/" -f 3 | tr '.' '_')
-html=ex8.html
+html=lcsd.html
 echo -n "" > $html
 acquire_target(){
     curl -s $url > ./$urlname.data

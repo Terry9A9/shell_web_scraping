@@ -1,4 +1,7 @@
 #!/bin/bash
+#Dev By: Terry9A9
+#Last Update : 2020-12-29 03:22
+
 up=$(echo $1 | tr '[:upper:]' '[:lower:]')
 total=0
 url="https://www.lcsd.gov.hk/clpss/en/webApp/Facility/District.do?ftid=42"
@@ -66,6 +69,6 @@ elif [[ $up == update ]]
 then
     acquire_target
 else
-    echo -e "$urlname.data not found\nplz use \"bash ./ex006q1.sh update\""
+    echo -e "$urlname.data not found\nplz use \"bash ./lcsd.sh update\""
     exit 1
 fi
