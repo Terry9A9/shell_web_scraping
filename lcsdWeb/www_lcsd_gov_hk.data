@@ -1,0 +1,1363 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tennis Courts</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" id="viewport" name="viewport"/>
+<!--  set 'width=device-width' first, becos some mobile browser behavior is different to get the devices with when set 'width=980' first -->
+<meta name="keywords" content="Leisure and Cultural Services Department, 康樂及文化事務署, 康乐及文化事务署"/>
+<meta name="description" content="Leisure and Cultural Services Department"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="webpage" property="og:type"/>
+<meta property="og:title" content="Leisure and Cultural Services Department 康樂及文化事務署"/>
+<meta property="og:image" content="https://www.lcsd.gov.hk/en/common/images/cover_image.jpg"/>
+<meta property="og:url" content="https://www.lcsd.gov.hk"/>
+<meta property="og:description" content="Welcome to Leisure and Cultural Services Department 歡迎來到康樂及文化事務署"/>
+
+<!--<script src="../common/js/config.js"></script>-->
+
+
+
+
+	
+ <!-- css for arrow (fa fa-angle-up) in crsp search 
+ 
+
+
+<!-- Optional theme -->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<link rel="stylesheet"
+	href="/clpss/css/jquery-ui.css">
+<link rel="stylesheet"
+	href="/clpss/css/jquery-ui.min.css">
+<script type="text/javascript"
+	src="/clpss/scripts/jquery-3.2.1.js"></script>
+<script type="text/javascript"
+	src="/clpss/scripts/jquery-ui.js"></script>
+<script type="text/javascript"
+	src="/clpss/scripts/jquery-ui.min.js"></script>
+
+
+
+<script type="text/javascript"
+	src="/clpss/scripts/chinese_convert.js?v=7"></script>
+	
+<!-- <script type="text/javascript" src="http://www.map.gov.hk/static/gihs_interface.js"></script> -->
+<script type="text/javascript"
+	src="/clpss/scripts/util.js?v=4"></script>
+	
+
+
+<link href="/clpss/css/fontstyle.css" rel="stylesheet" type="text/css"/>
+
+<link type="text/css" href="/clpss/css/style.css?v=4" rel="stylesheet"/>
+
+
+
+<!-- Datepicker language pack -->
+<script type="text/javascript" src="/clpss/scripts/datepicker-zh-TW.js"></script>
+<script type="text/javascript" src="/clpss/scripts/datepicker-zh-CN.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+
+<script src="/clpss/scripts/libs/plugins.js"></script>
+<script src="/clpss/scripts/responsive.js?v=3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81017403-1"></script> 
+
+<link rel="stylesheet"
+	href="/clpss/css/bootstrap-select.css">
+<link rel="stylesheet"
+	href="/clpss/css/bootstrap-select.min.css">
+<link rel="stylesheet" href="/clpss/css/colorbx.css">
+<script type="text/javascript"
+	src="/clpss/scripts/bootstrap-select.js"></script>
+<script type="text/javascript"
+	src="/clpss/scripts/bootstrap-select.min.js"></script>
+<script type="text/javascript"
+	src="/clpss/scripts/commonValidateUpdated.js?v=1"></script>
+<script type="text/javascript"
+	src="/clpss/scripts/bootstrap.min.js"></script> 
+<script type="text/javascript"
+	src="/clpss/scripts/responsive-paginate.js"></script> 
+ <script type="text/javascript"
+	src="/clpss/scripts/jquery.backgroundpos.js"></script> 
+<script src="/clpss/scripts/jquery.colorbox-min.js"></script>
+<script src="https://www.map.gov.hk/static/gihs_interface.js" type="text/javascript"></script> 
+<script>
+					$(document).ready(function(){
+						
+						$("a").focus(function(){
+								 if ( ! ($( this ).hasClass( "mainNav_link-lv2" ) || $( this ).hasClass( "mainNav_link-lv3" )) ) {
+									 $('.dropdown-content').css('display','none');
+									 	$(this).next().slideDown();
+								 }
+								 
+								}); 
+						 
+						if($("#langToTranslate").val() =="sc"){
+							$(".tcLink").attr("style","display:");
+							$(".enLink").attr("style","display:");
+						}else if($("#langToTranslate").val() =="tc"){
+							$(".scLink").attr("style","display:");
+							$(".enLink").attr("style","display:");
+						}else if($("#langToTranslate").val() =="en"){
+							$(".tcLink").attr("style","display:");
+							$(".scLink").attr("style","display:");
+						}
+						
+						  $(".pagination").rPage();
+						
+					});
+				</script>
+<script> 
+  window.dataLayer = window.dataLayer || []; 
+  function gtag(){dataLayer.push(arguments);} 
+  gtag('js', new Date()); 
+
+  gtag('config', 'UA-81017403-1'); 
+</script> 
+
+ 
+<style>
+body {
+	background:
+		url('/clpss/graphics/inner_bg_new.jpg?1424680876')
+		top center no-repeat;
+	background-color:#fcfbff !important;
+}
+
+.resultTable thead tr th a:hover {
+	cursor: pointer;
+}
+
+.tbl_col {
+	font-size: 10px;
+}
+
+
+.caret.up {
+	border-top: 0;
+	border-bottom: 4px dashed;
+}
+</style>
+
+<style>
+.blockDiv {
+	display: none;
+}
+
+.mobileMenuDiv {
+	display: none;
+}
+
+.blockDiv.mobile {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #000;
+	opacity: 0.6;
+	width: 100%;
+	height: 100%;
+	z-index: 100;
+	display: initial;
+}
+
+.mobileMenuDiv.mobile {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #FFF;
+	width: 100px;
+	z-index: 110;
+	display: initial;
+}
+
+.loading {
+	background-color: #ffffff;
+	background-image:
+		url("/clpss/graphics/36.gif");
+	background-size: 120px 30px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height:200px;
+	width:100%;
+}
+
+
+
+
+
+</style>
+
+
+
+</head>
+
+<style>
+body{
+-ms-overflow-style: scrollbar;
+}
+</style>
+<body class="">
+				<!-- <div class="notice-header" id="spec_announ" style="">
+					<div class="container_resp">
+						<div class="spec_content">
+							<p class="title"></p>
+							<div class="body"><p class="notice_link"><a class="spec_link" href="#!" target="_blank">Notice</a></p>
+							</div>
+						</div>
+						<div class="spec_close">
+							<a href="javascript:void(0);">X</a>
+						</div>
+					</div>
+				</div> -->
+		<header id="header" role="banner" >
+					<div class="part_upper hidden-print">
+						<div class="container_resp">
+							<div class="accessibility-content">
+								<a id="skip-to-content" href="#skip-start">Skip to Main Content</a>
+							</div>
+							<div class="logos">
+							
+								<div class="main_logo_desktop">
+									<a href="/en/index.html">
+									 	<img class="lcsd_logo_x1" alt="Leisure and Cultural Services Department" title="Leisure and Cultural Services Department" src="/clpss/graphics/banner_en.png" data-src-mobile="/clpss/graphics/banner_en_mobile.png" data-src-desktop="/clpss/graphics/banner_en.png"/>
+									 	<span class="access name_depart">Leisure and Cultural Services Department</span>
+									 	<span class="access name_lcsd">Leisure and Cultural Services Department</span>
+								 	</a>
+								</div>
+								
+								<div class="main_logo_mobile">
+									<a href="/en/index.html">
+									 	<img class="lcsd_logo_x1" alt="Leisure and Cultural Services Department" title="Leisure and Cultural Services Department" src="/clpss/graphics/banner_en_mobile.png"/>
+									 	<span class="access name_depart">Leisure and Cultural Services Department</span>
+									 	<span class="access name_lcsd">Leisure and Cultural Services Department</span>
+								 	</a>
+								</div>
+								<div class="main_logo_tablet">
+									<a href="/en/index.html">
+									 	<img class="lcsd_logo_x1" alt="Leisure and Cultural Services Department" title="Leisure and Cultural Services Department" src="/clpss/graphics/banner_en_tablet.png"/>
+									 	<span class="access name_depart">Leisure and Cultural Services Department</span>
+									 	<span class="access name_lcsd">Leisure and Cultural Services Department</span>
+								 	</a>
+								</div>
+							</div>
+							<div class="header-right hidden-xs hidden_tablet_mobile">
+								
+								<div class="header-right-block">
+									<span class="btn-search-block-destop"><em class="fa fa-search ico-search" aria-hidden="true" title="Search"></em></span>
+									<div class="header-search-container js-header-search-container search-dropdown-content">
+										
+										<div class="header-search-input-container js-header-search-inputContainer">
+										<form action="/clpss/en/SearchAll.do" method="post">
+											<div class="input-group">
+												<input id="key" name="keyword" placeholder="Please enter keyword(s)"
+													class="form-control header-search-input js-header-search-input"
+													title="Search in this site" type="text"> <span
+													class="input-group-btn">
+													<button class="btn btn-secondary" type="submit">
+														Search
+														<!-- <span class="fa fa-search ico-search" aria-hidden="true"> -->
+													</button>
+												</span>
+											</div>
+			
+										</form>
+									</div>
+										<button onclick="site_search();" class="header-search-btn js-header-search-btn"><em class="fa fa-search ico-search" aria-hidden="true"></em><span class="sr-only">Search</span></button>
+									</div>
+								</div>
+								
+								<div class="header-right-block">
+									<a href="/en/sitemap.html" class="sitemap"><em class="fa fa-sitemap ico-map" aria-hidden="true" title="Site Map"></em><span class="sr-only">Site Map</span></a>
+								</div>
+								<div class="header-right-block">
+									<a href="/en/contactus.html" class="contacus"><em class="fa fa-phone ico-phone" aria-hidden="true" title="Contact Us"></em><span class="sr-only">Contact Us</span></a>
+								</div>
+								<span class="blk-sep">|</span>
+								<div class="header-right-block">
+									<a onclick="changeLang('en');" href="javascript:void(0)" class="lang-link enLink" style="display:none">Eng</a>
+								</div>
+								<div class="header-right-block">
+									<a onclick="changeLang('tc');" href="javascript:void(0)" class="lang-link tcLink" style="display:none">繁</a>
+								</div>
+								<div class="header-right-block">
+									<a onclick="changeLang('sc');" href="javascript:void(0)" class="lang-link scLink" style="display:none">简</a>
+								</div>
+								
+								
+								<script>
+									function changeLang(lang){
+										//alert();
+							 			var url = window.location.href;
+							 			url = url.replace("/en/","/"+lang+"/").replace("/tc/","/"+lang+"/").replace("/sc/","/"+lang+"/");
+							 			window.location.href = url;
+							 		}					
+								</script>
+								
+								
+								
+								
+								<span class="blk-sep">|</span>
+								<div class="header-right-block">
+									<div class="site_control">
+										 
+										<a class="lang-link" href="https://www.lcsd.gov.hk/en/notice.html#size" title="Text Size">Text Size</a>
+									</div>
+								</div>
+								<span class="blk-sep">|</span>	
+								<div class="header-right-block">
+									<!-- 
+									<div class="social-icon_container">
+										<a class="social-icon social-mail" alt="E-mail" href="mailto:?body=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">E-mail</a>
+										<a class="social-icon social-facebook share_fb" alt="Facebook" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Facebook</a>
+										<a class="social-icon social-twitter" alt="Twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Twitter</a>
+										<a class="social-icon social-sina" alt="Sina Weibo" href="https://service.weibo.com/share/share.php?appkey=&amp;title=Description&amp;pic=&amp;ralateUid=&amp;language=zh_cn&amp;url=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Sina Weibo</a>
+									</div>
+									 -->
+									 <a href="https://www.facebook.com/LCSDPlusss/" alt="Facebook" class="social-icon social-facebook-main">Facebook</a>
+									 <a href="https://www.instagram.com/lcsdplusss/" alt="Instagram" class="social-icon social-instagram">Instagram</a>
+								</div>	
+								
+								<span class="blk-sep">|</span>
+								<div class="header-right-block dropdown-menu-resp share-main-page">
+									<span class="ico-block"><a href="#!"><em aria-hidden="true" class="fa fa-share-alt ico-share" title="Share"></em></a></span>
+									<div class="dropdown-content share-block-mb">
+										<div class="social-icon_container container_resp">
+											<a href="" alt="E-mail" class="social-icon social-mail">E-mail</a><a href="" alt="Facebook" class="social-icon social-facebook share_fb">Facebook</a><a href="" alt="Twitter" class="social-icon social-twitter">Twitter</a><a href="" alt="Sina Weibo" class="social-icon social-sina">Sina Weibo</a><a href="" alt="Whatsapp" class="social-icon social-whatsapp">Whatsapp</a>
+										</div>
+									</div>
+								</div>
+							</div>	
+							<div class="header-right show_tablet_mobile">
+								<div class="header-right-block dropdown-menu-resp social_icon_mobile">
+									<div class="ico-block">
+										<a href="https://www.facebook.com/LCSDPlusss/" alt="Facebook" class="social-icon social-facebook-main">Facebook</a>
+									</div>
+								</div>
+								<div class="header-right-block dropdown-menu-resp social_icon_mobile">
+									<div class="ico-block">
+										<a href="https://www.instagram.com/lcsdplusss/" alt="Instagram" class="social-icon social-instagram">Instagram</a>
+									</div>
+								</div>
+								
+								<div class="header-right-block dropdown-menu-resp">
+								
+									<span class="ico-block"><em class="fa fa-search ico-search" aria-hidden="true" title="Search"></em></span>
+									<div class="dropdown-content search-block-mb">
+										<p class="orange_bold">Search</p>
+										<form action="/clpss/en/SearchAll.do" method="post" id="mobile_search_form">
+										  <div class="btnRow">
+										    <label class="inner-search-icon-mb" for="search-input"><em class="fa fa-search" aria-hidden="true" id="mobile_search_btn" title="Search"></em><span class="sr-only">Search icons</span></label>
+											<input placeholder="Please enter keyword(s)" name="keyword" id="lcsd_search" class="form-control input-text" type="text">
+											<div class="btnRow-addon">
+											
+											<!--<input type="submit" class="input-submit input-submit-search">-->
+											</div>
+										  </div>
+										</form>
+										<script>
+											$('#mobile_search_btn').click(function(){												
+												$('#mobile_search_form').submit();
+											});
+										</script>
+									</div>
+								</div>
+								
+								<div class="header-right-block dropdown-menu-resp contactus">
+								
+									<span class="ico-block">
+									<a href="https://www.lcsd.gov.hk/en/contactus.html" class="contacus">
+									<em class="fa fa-phone ico-phone" aria-hidden="true" style="color:#F37936"></em>
+									<span class="sr-only">Contact Us</span>
+									</a>
+									</span>
+								</div>
+								<div class="header-right-block dropdown-menu-resp globe">
+								
+									<span class="ico-block"><em class="fa fa-globe ico-globe" aria-hidden="true"></em></span>
+									<div class="dropdown-content globe-block-mb">
+										<div class="lang_group">
+										<input id="langToTranslate"  value="en" type="hidden" />
+											<p class="orange_bold">Languages</p>
+											<p>
+											<a class="lang-link enLink" href="javascript:changeLang('en');" style="display:none">English</a>
+											<a class="lang-link tcLink" href="javascript:changeLang('tc');" style="display:none">繁體中文</a>
+											<a class="lang-link scLink" href="javascript:changeLang('sc');" style="display:none">简体中文</a>
+											</p>
+										</div>
+										<div class="site_control">							
+ 										
+ 											<p class="orange_bold"><a class="lang-link" href="https://www.lcsd.gov.hk/en/notice.html#size">Text Size</a></p>
+										</div>
+									</div>
+								</div>
+								
+								<div class="header-right-block dropdown-menu-resp share">
+								
+									<span class="ico-block"><em class="fa fa-share-alt ico-share" aria-hidden="true" title="Share"></em></span>
+									<div class="dropdown-content share-block-mb">
+										<div class="social-icon_container">
+											<p class="orange_bold">Share</p>
+											<a class="social-icon social-mail" alt="E-mail" href="mailto:?body=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">E-mail</a>
+											<a class="social-icon social-facebook share_fb" alt="Facebook" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Facebook</a>
+											<a class="social-icon social-twitter" alt="Twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Twitter</a>
+											<a class="social-icon social-sina" alt="Sina Weibo" href="https://service.weibo.com/share/share.php?appkey=&amp;title=Description&amp;pic=&amp;ralateUid=&amp;language=zh_cn&amp;url=https%3A%2F%2Fwww.lcsd.gov.hk%2Fen%2Fnews.php">Sina Weibo</a>
+											<a class="social-icon social-whatsapp" alt="Whatsapp" href="">Whatsapp</a>
+										</div>
+									</div>
+								</div>
+								
+								<div class="header-right-block dropdown-menu-resp">
+								
+									<span class="ico-block ico-bars"><em class="fa fa-bars" aria-hidden="true"></em></span>
+									<div class="dropdown-content menu-block-mb"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="part_lower dsk_part_lower hidden-print">
+						<div class="container_resp">
+						<div class="menu hidden_tablet_mobile">
+							<ul class="menu-item">
+								<li class="menu-item-1 dropdown-menu-resp">
+								
+									<a class="m-link-1" target="_self" href="#"><!-- Facilities & Venues --> Facilities & Venues</a>
+								  <div class="mainNav_sub dropdown-content">
+									<div class="mainNav_sub_inner">
+									  <div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+											<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/facilities/facilitiessearch.html">
+											<em class="fa fa-search" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Facilities & Venues Search</p></a>
+											</li>
+											<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist.html">
+											  <em class="fa fa-list-alt" aria-hidden="true"></em><p class="mainNav_link-lv2-text">List of Facilities & Venues</p></a>
+											  <ul class="mainNav_list-lv3">
+												<li class="mainNav_item-lv3" aria-hidden="true">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/aquatics.html">Aquatics Facilities</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/children.html">Facilities for Children</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/camps.html">Holiday Camps</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports.html">Land Sports Facilities</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/libraries.html">Libraries</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/museums.html">Museums</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/parks.html">Parks, Zoos, Gardens</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/pvenue.html">Performance Venues</a>
+												</li>
+												<li class="mainNav_item-lv3">
+												<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/otherfacilities.html">Other Facilities & Venues</a>
+												</li>
+											  </ul>
+											</li>
+										</ul>
+									  </div>
+									  <div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/facilities/facilitiesbooking.html">
+										<em class="fa fa-calendar" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Booking of Facilities & Venues</p></a>
+										<ul class="mainNav_list-lv3">
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitiesbooking/procedure.html">Booking Procedure for Recreation and Sports Facilities</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://eaps.lcsd.gov.hk/ccms_eaps/LCSD/main.zul?lang=EN">e-Application & Payment Services for Performance Venues (e-APS)</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitiesbooking/freeusescheme.html">Free Use Scheme</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/leisurelink/index.html">Leisure Link</a>
+										</li>
+										</ul>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" target="_blank" href="https://www.lcsd.gov.hk/en/licensing/index.html">
+										<em class="lnr lnr-license" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Place of Amusement Licences</p></a>
+										</li>
+										</ul>
+									  </div>
+									  <div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/facilities/otherinfo.html">
+										<em class="fa fa-info-circle" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Other Information</p></a>
+										<ul class="mainNav_list-lv3">
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/condition/index.html">Conditions of Use of Recreation and Sports Facilities</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										
+											
+												<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/lschemes/hire_charges/en/index.php">New Hire Charges for the Use of Non-Fee Charging Leisure Venues for Conducting Sales Activities</a>
+											
+											
+										
+										
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/facilities/otherinfo/balancebike.html">Opening up parks for toddlers to play balance bikes</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/tech/index.html">Performing Arts Venues Technical Information</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/anti-smoking/index.html">Public Pleasure Grounds - Venues where smoking is prohibited, not prohibited and venues with smoking</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/fitness/jbufe/index.html">Registration as a User of Fitness Rooms</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/scheme_refreshment/index.html">Scheme on Letting Out of LCSD Refreshment Outlet Contracts to Organisations of People with Disabilities</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/otherinfo/cycling.html">Venues that Allow Public to Push Cycles Across</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/avianflu/index.html">Public remind not to feed birds at LCSD venues</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/otherinfo/petpark.html">Trial Scheme of “Inclusive Park for Pets”</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/otherinfo/othersound.html">Amendment of Pleasure Grounds Regulation  to step up control of noise nuisance in parks</a>
+										</li>
+										</ul>
+										</li>
+										</ul>
+									  </div>
+									</div>
+								  </div>
+								</li>
+								<li class="menu-item-1 dropdown-menu-resp">
+							
+								<a class="m-link-1" target="_self" href="#">Programmes & Scheme</a>
+								  <div class="mainNav_sub dropdown-content">
+									<div class="mainNav_sub_inner">
+									<div class="mainNav_sub_col">
+									<ul class="mainNav_list-lv2">
+									<li class="mainNav_item-lv2">
+									<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/programmes/programmessearch.html"><em class="fa fa-search" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Programmes & Schemes Search</p></a>
+									</li>
+									<li class="mainNav_item-lv2">
+									<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/programmes/programmeslist.html"><em class="fa fa-list-alt" aria-hidden="true"></em><p class="mainNav_link-lv2-text">List of Programmes & Schemes</p></a>
+									<ul class="mainNav_list-lv3">
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/csc.html">Community Sports Club Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/pa.html">Cultural Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/districtsports.html">District Sports Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/greening.html">Greening</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/heritage.html">Heritage and Museum Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="http://www.hkpl.gov.hk/en/extension-activities/all-events/search?dist_id=&amp;lib_id=77&amp;cat_id=0&amp;year=0&amp;month=0">Hong Kong Public Libraries Extention Activity</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/mqme_prog.html">International Games & Events</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/mc_prog.html">Major Community Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/pascheme.html">Schemes for Performing Arts</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/ssp/index.html">School Sports Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/sd_prog.html">Sports Development Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/sss.html">Sports Subvention Scheme</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/storm/index.html">Storm the Park</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/sfad/2019/index.html">Sport For All Day</a>
+									</li>
+									</ul>
+									</li>
+									</ul>
+									</div>
+									<div class="mainNav_sub_col">
+									<ul class="mainNav_list-lv2">
+									<li class="mainNav_item-lv2">
+									<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/programmes/enrolment.html"><em class="fa fa-ticket" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Enrolment of Programmes & Ticketing</p></a>
+									<ul class="mainNav_list-lv3">
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/enrolment/enrolmentrsp.html">Enrolment of Recreation and Sports Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/districtsports/enrolmentnotes.html">Notes on Enrolment</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/ticket/index.html">Ticketing (URBTIX)</a>
+									</li>
+									</ul>
+									</li>
+									</ul>
+									</div>
+									<div class="mainNav_sub_col">
+									<ul class="mainNav_list-lv2">
+									<li class="mainNav_item-lv2">
+									<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/programmes/pa.html"><em class="fa fa-paint-brush" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Performing Arts</p></a>
+									<ul class="mainNav_list-lv3">
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/pa/intro.html">Introduction</a>
+									</li>
+									<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en//programmes/programmeslist/culture/culture_prog.html">Latest Cultural Programmes</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/CE/CulturalService/ab/">Audience Building Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/CE/CulturalService/Programme/index.html">Cultural Presentations Section</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/cpo/index.html">Community Programmes Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/pa/festival.html">Festivals Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/fp/">Film Programmes Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/mo/index.html">Music Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/cxlo/index.html">Cultural Exchange Liaison Office</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/facilities/facilitieslist/pvenue.html">Performance Venues</a>
+									</li>
+									<li class="mainNav_item-lv3">
+									<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/pa/sao.html">Subvented Arts Organisations</a>
+									</li>
+									<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/vps/index.html">Venue Partnership Scheme</a>						
+									</li>
+									<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/programmes/programmeslist/culture/exchangeprogram.html">Cultural Exchange Programmes and Training Opportunities for local artists and arts administrator in Hong Kong</a>
+									</li>
+									
+									</ul>
+									</li>
+									<li class="mainNav_item-lv2">
+									<a class="mainNav_link-lv2" target="_blank" href="https://www.lcsd.gov.hk/en/cscommittee/index.html"><em class="fa fa fa-futbol-o"></em><p class="mainNav_link-lv2-text">Community Sports Committee</p></a>
+									</li>
+									</ul>
+									</div>
+									</div>
+									</div>
+								</li>
+								<li class="menu-item-1"><a class="m-link-1" target="_self" href="https://www.lcsd.gov.hk/clpss/en/webApp/News.do">Latest News</a></li>
+								<li class="menu-item-1 dropdown-menu-resp">
+								
+								<a class="m-link-1" target="_self" href="#">About LCSD</a>
+									<div class="mainNav_sub dropdown-content">
+									  <div class="mainNav_sub_inner">
+										<div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/accesstoinfo/info_access.html"><em class="fa fa-info-circle" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Access to Information</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/video.html"><em class="fa fa-film" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Departmental Video</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/clpss/en/webApp/Jobs.do"><em class="fa fa-briefcase" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Jobs Available</p></a>
+										<ul class="mainNav_list-lv3">
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/jobs/lifeguard.html">Recruitment of Lifeguard</a>
+										</li>
+										</ul>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/mission.html"><em class="fa fa-lightbulb-o" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Mission,Vision and Values</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/orgchart.html"><em class="fa fa-sitemap" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Organisation Chart</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/performance.html"><em class="fa fa-handshake-o" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Performance Pledge</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/opendata.html"><em aria-hidden="true" class="fa fa-table"></em>
+											<p class="mainNav_link-lv2-text">Annual Open Data Plans</p>
+											</a>
+										</li>
+										<li class="mainNav_item-lv2">
+											<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/equality.html"><em aria-hidden="true" class="fa fa-users"></em>
+											<p class="mainNav_link-lv2-text">Equal Opportunities</p>
+											</a>
+										</li>																					
+										</ul>
+										</div>
+										<div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/forms.html"><em class="fa fa-comments-o" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Public Forms</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr.html"><em class="fa fa-book" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Publications</p></a>
+										<ul class="mainNav_list-lv3">
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/annual.html">Annual Report</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/cscb/">Community Sports Club Bulletin</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/consultancy.html">Consultancy Studies</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/publications.html">Cultural Services Publications</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/environmental.html">Environmental Report</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/statistics.html">Statistics Report</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/fslc.html">Replies to questions from Members of the Finance Committee of the Legislative Council</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/investigation/Swimming_Lanes_Report_en.pdf">LCSD Report of Investigation and Examination on the Use of Swimming Lane in Public Swimming Pools</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/investigation/Executive_Summary_Artificial_Turf_Pitches_en.pdf">Executive Summary of the Review on Artificial Turf Pitches Managed by the Leisure and Cultural Services Department</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/ppr/the-facts.html">HK The Facts - Leisure & Culture</a>
+										</li>
+										</ul>
+										</li>
+										</ul>
+										</div>
+										<div class="mainNav_sub_col">
+										<ul class="mainNav_list-lv2">
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/links.html"><em class="fa fa-link" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Related Links</p></a>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/aboutlcsd/services.html"><em class="fa fa-cogs" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Services</p></a>
+										<ul class="mainNav_list-lv3">
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/services/esd.html">Electronic Services</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/services/forecase.html">Forecast of Major Purchase</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/services/supplier.html">List of LCSD Suppliers</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/services/tender.html">List of Tender</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" target="_blank" href="https://www.lcsd.gov.hk/en/common/images/en/forms/contract.docx">Standard Employment Contract (For use by contractors of government service contracts (excluding construction service contracts) that rely heavily on the deployment of non-skilled workers in employing non-skilled workers for providing services to the Government)</a>
+										</li>
+										<li class="mainNav_item-lv3">
+										<a class="mainNav_link-lv3" href="https://www.lcsd.gov.hk/en/aboutlcsd/services/links.html">Other Links</a>
+										</li>
+										</ul>
+										</li>
+										<li class="mainNav_item-lv2">
+										<a class="mainNav_link-lv2" href="https://www.lcsd.gov.hk/en/contactus.html"><em class="fa fa-phone" aria-hidden="true"></em><p class="mainNav_link-lv2-text">Contact Us</p></a>
+										</li>
+										</ul>
+										</div>
+									  </div>
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+						</div>
+					</div>
+</header>
+
+
+
+
+				
+
+
+
+
+		
+	<div class="container-fluid" style="">
+
+		<div class="" style="">
+			<div id="mobileMenu" class="mobileMenuDiv">
+				
+			</div>
+			<div id="blockScreen" class="blockDiv"></div>
+		</div>
+
+	
+		<link rel="stylesheet" type="text/css" href="/clpss/css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="/clpss/css/bootstrap-theme.css" />
+		<div class="row" style="max-width:1280px; margin:0 auto;">			
+			<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+				<style>
+	.panel{
+		border:0;
+	}
+	.panel-body{
+		padding:15px 40px;
+	}
+	.panel-success-search > .panel-heading.thumbTitle_block{
+		margin-bottom:0;
+		border-radius:0;
+		background: url(/clpss/graphics/tb_map.png) right top no-repeat #429606;
+		background-size:100% 100%;
+	}
+
+	.thumbTitle_block_head_img_container{
+		width:365px;
+		display:inline-block;
+	}
+	.thumbTitle_block{
+		padding:0 ;
+		min-height:80px;
+	}
+
+	@media screen and (max-width: 750px)
+	{
+		.thumbTitle_block_head_img_container{
+			width: 49%;
+		}
+		/*.thumbTitle_block_head_img_container img{
+			height:84px;
+		}*/
+		.thumbTitle_block{
+			min-height:0;
+		}
+
+	}
+	@media screen and (max-width: 670px)
+	{
+		.panel-success-search > .panel-heading.thumbTitle_block{
+			background-size:140% 100%;
+		}
+	}
+	.thumblist_title{
+		font-weight:700;
+		color:#4e4e4e;
+	}
+	.dis_linkgp_links
+	{
+		margin:10px 0 0;
+		list-style:none;
+		padding:0;
+		/*font-size:0.8125em;*/
+		font-weight:700;
+	}
+	.dis_linkgp_links > li::before{
+		content:"\f105";
+		font-family: 'FontAwesome';
+		color:#56902d;
+	}
+	.distLink u{
+		text-decoration:none;
+		color:#4e4e4e;
+	}
+	.distLink u:hover{
+		text-decoration:underline;
+	}
+	@media screen and (max-width: 991px){
+		h2{
+			font-size:25px; 
+		}
+	}
+	</style>
+	<script>
+		$(document).ready(function() {
+
+			$("#startDate").datepicker();
+			$("#endDate").datepicker();
+			$("#startDate").datepicker("setDate", new Date());
+			$("#endDate").datepicker("setDate", new Date());
+
+			$('.distLink').click(function() {
+				var link = $(this).parents('li').find('input').val();
+				link = "/clpss/" + "en"+"/webApp/Facility/Details.do?ftid=42&fcid=&did=" + link;
+				//alert(link);
+				window.location.href = link;
+			});
+
+		});
+	</script> 
+	
+	
+	<!--navBar  -->
+	<div class="hidden-sm hidden-xs">
+		<ol class="breadcrumb" style="background: transparent">
+			
+				
+					
+						<li>
+							<a href="https://www.lcsd.gov.hk/en/index.html">Home
+							</a>
+						</li>
+										
+				
+										
+				
+										
+				
+			
+				
+										
+				
+					
+						<li>
+							<a href="https://www.lcsd.gov.hk/en/facilities/facilitieslist.html">Facilities &amp; Venues
+							</a>
+						</li>
+										
+				
+										
+				
+			
+				
+										
+				
+										
+				
+					
+						<li>
+							<a href="https://www.lcsd.gov.hk/en/facilities/facilitieslist.html">List of Facilities &amp; Venues
+							</a>
+						</li>
+										
+				
+			
+			<li class="active">Tennis Courts</li>
+		</ol>
+	</div>
+	<!-- End navBar -->
+	
+	<!-- Content Wording -->
+	<div class="">
+		<h2 style="color: red; font-weight: bold">
+				Tennis Courts
+			</h2>	
+	</div>
+	
+	<div class="panel panel-success-search">
+		<div class="thumbTitle_block panel panel-heading" >
+			<!-- img  -->
+			<div class="thumbTitle_block_head_img_container">
+				<img class="thumbTitle_block_head_img" src="/clpss/graphics/tl8.jpg" alt="">
+			</div>
+		</div>
+		<style>
+		
+  
+     .disabled {
+        pointer-events: none;
+        cursor: default;
+        opacity: 0.6;
+    }
+		</style>
+		<div class="panel-body">
+			<div class="row">
+				<div class="col-lg-4 col-sm-4">
+					<h4 class="thumblist_title">Hong Kong</h4>
+					<ul class="dis_linkgp_links">
+						<li><input type="hidden" value="1" /><a href="#" class="btn distLink disabled"><u>Central and Western</u></a></li>
+						<li><input type="hidden" value="2" /><a href="#" class="btn distLink "><u>Eastern</u></a></li>
+						<li><input type="hidden" value="11" /><a href="#" class="btn distLink "><u>Southern</u></a></li>
+						<li><input type="hidden" value="15" /><a href="#" class="btn distLink "><u>Wan Chai</u></a></li>
+					</ul>
+				</div>
+				<div class="col-lg-4 col-sm-4">
+					<h4 class="thumblist_title">Kowloon</h4>
+					<ul class="dis_linkgp_links">
+						<li><input type="hidden" value="4" /><a href="#" class="btn distLink "><u>Kowloon City</u></a></li>
+						<li><input type="hidden" value="6" /><a href="#" class="btn distLink "><u>Kwun Tong</u></a></li>
+						<li><input type="hidden" value="9" /><a href="#" class="btn distLink "><u>Sham Shui Po</u></a></li>
+						<li><input type="hidden" value="16" /><a href="#" class="btn distLink "><u>Wong Tai Sin</u></a></li>
+						<li><input type="hidden" value="17" /><a href="#" class="btn distLink "><u>Yau Tsim Mong</u></a></li>
+					</ul>
+				</div>
+				<div class="col-lg-4 col-sm-4">
+					<h4 class="thumblist_title">New Territories</h4>
+					<ul class="dis_linkgp_links">
+						<li><input type="hidden" value="3" /><a href="#" class="btn distLink "><u>Islands</u></a></li>
+						<li><input type="hidden" value="5" /><a href="#" class="btn distLink "><u>Kwai Tsing</u></a></li>
+						<li><input type="hidden" value="7" /><a href="#" class="btn distLink "><u>North</u></a></li>
+						<li><input type="hidden" value="8" /><a href="#" class="btn distLink "><u>Sai Kung</u></a></li>
+						<li><input type="hidden" value="10" /><a href="#" class="btn distLink "><u>Sha Tin</u></a></li>
+						<li><input type="hidden" value="12" /><a href="#" class="btn distLink "><u>Tai Po</u></a></li>
+						<li><input type="hidden" value="13" /><a href="#" class="btn distLink "><u>Tsuen Wan</u></a></li>
+						<li><input type="hidden" value="14" /><a href="#" class="btn distLink "><u>Tuen Mun</u></a></li>
+						<li><input type="hidden" value="18" /><a href="#" class="btn distLink "><u>Yuen Long</u></a></li>
+					</ul>
+				</div>	
+			</div>
+		</div>
+	</div>
+			</div>
+		</div>
+
+	
+
+	</div>
+	<footer>
+					<div class="container_resp hidden-print">
+						<div class="bk2Top_container">
+							<a class="bk2TopBtn" title="back to TOP" href="javascript:void(0)"><span>back to TOP</span></a>
+						</div>
+						<div class="ft-mobile-app">
+							<p class="ft-title">Mobile Apps</p>
+							
+								
+									<div class="ft-mobile-items">
+									
+										<a class="ft-mobile-app-item" target="_blank" href="https://www.lcsd.gov.hk/tc/ticket/mobile_booking.html"><img src="/clpss/graphics/footer/ma3.png" alt="My URBTIX Mobile App" title="My URBTIX Mobile App"></a>
+										
+										
+										<a class="ft-mobile-app-item" target="_blank" href="https://mmis.hkpl.gov.hk/mmis-app?from_menu=Y&amp;dummy="><img src="/clpss/graphics/footer/MMIS.png" alt="Multimedia Information - The Mobile App of Multimedia Information System" title="Multimedia Information - The Mobile App of Multimedia Information System"></a>
+										<a class="ft-mobile-app-item" target="_blank" href="https://www.hkpl.gov.hk/tc/about-us/services/mobileapp.html"><img src="/clpss/graphics/footer/hkpl.png" alt="“My Library” The Official Mobile App" title="“My Library” The Official Mobile App"></a>
+										<a target="_blank" class="ft-mobile-app-item" href="https://hk.science.museum/en_US/web/scm/pe/imguide.html"><img src="/en/common/images/footer/iMGuide.png" alt="iM Guide" title="iM Guide"></a>
+									</div>
+								
+							
+							
+						</div>
+						<div class="ft-subsribes-links">
+							<a class="ft-links" target="_blank" href="https://www3.lcsd.gov.hk/emag/home?lang=en"><img src="/clpss/graphics/footer/sub_button_en.png"/></a>
+						</div>
+
+						<div class="ft-related-links">
+							
+								
+								
+								
+								
+	
+								
+								
+																							<div class="ft-rt-links">
+<a target="_blank" href="https://www.budget.gov.hk/consultation21/eng/index.html"><img src="/en/common/images/graphics/banner/en/Budget_2021-22_en.jpg" alt="The 2021-22 Budget Public Consultation" title="The 2021-22 Budget Public Consultation"></a>
+</div><div class="ft-rt-links">
+<a target="_blank" href="https://www.policyaddress.gov.hk/2020/eng/index.html"><img src="/en/common/images/graphics/banner/en/PA2020_en.jpg" alt="The Chief Executive's 2020 Policy Address" title="The Chief Executive's 2020 Policy Address"></a>
+</div><div class="ft-rt-links">
+<a target="_blank" href="https://www.leavehomesafe.gov.hk/en/"><img src="/en/common/images/graphics/banner/en/homesafe.jpg" alt="Let&rsquo;s Fight the Virus!　Scan with &ldquo;LeaveHomeSafe&rdquo;" title="Let&rsquo;s Fight the Virus!　Scan with &ldquo;LeaveHomeSafe&rdquo;"></a>
+</div><div class="ft-rt-links">
+<a target="_blank" href="https://www.hab.gov.hk/en/policy_responsibilities/arts_culture_recreation_and_sport/acdfs.htm"><img src="/en/common/images/graphics/banner/en/202010_ACDFS_en.jpg" alt="Arts Capacity Development Funding Scheme" title="Arts Capacity Development Funding Scheme"></a>
+</div><div class="ft-rt-links">
+<a target="_blank" href="http://fos.hkolympic.org/en/"><img src="/clpss/graphics/footer/63FOS.jpg" alt="63rd Festival of Sport" title="63rd Festival of Sport"></a>
+</div>
+								
+						
+								<div class="ft-rt-links">
+									<a target="_blank" href="https://www.isd.gov.hk/nationalsecurity/eng/">
+										<img src="/clpss/graphics/footer/NSL_en.jpg" alt="Safeguarding National Security" title="Safeguarding National Security">
+									</a>
+								</div>
+								
+								<div class="ft-rt-links">
+									<a target="_blank" href="https://www.coronavirus.gov.hk/eng/index.html">
+										<img src="/clpss/graphics/footer/fight_NC_en.jpg" alt="We Fight the Virus! " title="We Fight the Virus! ">
+									</a>
+								</div>
+								
+								<div class="ft-rt-links">
+								<a target="_blank" href="https://www.ess.gov.hk/en/"><img src="/clpss/graphics/footer/ESS_en.jpg" alt="Employment Support Scheme " title="Employment Support Scheme "></a>
+								</div>
+								<div class="ft-rt-links">
+									<a target="_blank" href="https://www.isd.gov.hk/response2019/eng/index.html">
+										<img src="/clpss/graphics/footer/responses_en.jpg" alt="Government Responses to Recent Events" title="Government Responses to Recent Events">
+									</a>
+								</div>
+								
+							
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://www.sb.gov.hk/eng/antimask/index.htm" >
+											<img src="/clpss/graphics/footer/antimask_en.jpg" alt="Prohibition on Face Covering Regulation" title="Prohibition on Face Covering Regulation">
+										</a>
+									</div>						
+									
+								
+									<div class="ft-rt-links">
+									<a target="_blank" href="https://www.talent.gov.hk/home?lang=en_US">
+										<img src="/clpss/graphics/footer/talentgovhk.gif" alt="Talent.gov.hk" title="Talent.gov.hk">
+									</a>
+									</div>
+									
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://www.ydc.gov.hk/en/index.html">
+											<img src="/clpss/graphics/footer/YDC_en.jpg" alt="Youth Development Commission" title="Youth Development Commission">
+										</a>
+									</div>
+									
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.beltandroad.gov.hk/index.html">
+											<img src="/clpss/graphics/footer/banner_Belt&amp;Road.jpg" alt="Belt and Road Initiative．Hong Kong" title="Belt and Road Initiative．Hong Kong"/>
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://www.legalhub.gov.hk/eng/index.html">
+											<img src="/clpss/graphics/footer/Legal-hub-en.jpg" alt="Hong Kong's Legal Services" title="Hong Kong's Legal Services">
+										</a>
+									</div>
+									
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.gov.hk/en/residents/">
+											<img src="/clpss/graphics/footer/eu_ver1_en.gif" alt="GovHK Responsive Design Launche" title="GovHK Responsive Design Launche"/>
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://www.lcsd.gov.hk/en/parks/yshg/">
+											<img src="/clpss/graphics/footer/YSH.gif" alt="Tree Walk at Yeung Siu Hang Garden" title="Tree Walk at Yeung Siu Hang Garden">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://www.lcsd.gov.hk/en/bwa2016.html">
+											<img src="/clpss/graphics/footer/banner_bwa2016_en.gif" alt="Best .hk Website Awards 2016 - Gold Prize" title="Best .hk Website Awards 2016 - Gold Prize">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.fhs.gov.hk/english/breastfeeding/babycare_facilities_list.html">
+											<img src="/clpss/graphics/footer/babycare facilities_icon_en.gif" alt="Babycare Facilities in Government Premises" title="Babycare Facilities in Government Premises">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.landsd.gov.hk/en/legco/pos.htm">
+											<img src="/clpss/graphics/footer/POS.gif" alt="Public Open Space provided in Private Developments under lease" title="Public Open Space provided in Private Developments under lease">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.greening.gov.hk/en/home/index.html">
+											<img src="/clpss/graphics/footer/banner_BOGP.gif" alt="Greening" title="Greening">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.hongkongpost.hk/correct_addressing/index.jsp?lang=en_US">
+											<img src="/clpss/graphics/footer/banner_change_address.jpg" alt="Correct Addressing tool" title="Correct Addressing tool">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.mcor.swd.gov.hk/en/activities/whatsnew.htm">
+											<img src="/clpss/graphics/footer/gov_mmark.gif" alt="&quot;M&quot; Mark Event" title="&quot;M&quot; Mark Event">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.gov.hk/en/residents/culture/index.htm">
+											<img src="/clpss/graphics/footer/banner_other-lesuit.gif" alt="GovHK: Culture, Leisure &amp; Sports" title="GovHK: Culture, Leisure &amp; Sports">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.youtube.com/hkhab">
+											<img src="/clpss/graphics/footer/youtube.gif" alt="HAB YouTube Channel" title="HAB YouTube Channel">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.news.gov.hk/en/index.shtml">
+											<img src="/clpss/graphics/footer/gov_enews.jpg" alt="news.gov.hk" title="news.gov.hk">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.wkcdauthority.hk/en/what_s_new/index.html">
+											<img src="/clpss/graphics/footer/banner_wkcd.jpg" alt="West Kowloon Cultural District" title="West Kowloon Cultural District">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.prdculture.org/">
+											<img src="/clpss/graphics/footer/gov_gprd.gif" alt="粵港澳文化資訊網" title="粵港澳文化資訊網">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.greening.gov.hk/en/knowledge_database/map.html">
+											<img src="/clpss/graphics/footer/banner_landscape.jpg" alt="Tree and Landscape Map" title="Tree and Landscape Map">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="https://data.gov.hk/">
+											<img src="/clpss/graphics/footer/data_gov.gif" alt="DATA.GOV.HK" title="DATA.GOV.HK">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.1823.gov.hk/eng/index.htm">
+											<img src="/clpss/graphics/footer/banner_1823.jpg" alt="1823" title="1823">
+										</a>
+									</div>
+									<div class="ft-rt-links">
+										<a target="_blank" href="http://www.gov.hk/en/residents/housing/moving/coa.htm">
+											<img src="/clpss/graphics/footer/banner_caddress.jpg" alt="Change of Address" title="Change of Address">
+										</a>
+									</div>
+									
+								
+								
+								
+							
+						</div>
+
+						<div class="footer-link">
+							
+							<div class="ft-imt-links">
+								<div class="ft-state">
+									<a href="https://www.lcsd.gov.hk/en/notice.html">Important Notices</a>
+									<span class="blk-sep">|</span>
+									<a href="https://www.lcsd.gov.hk/en/info_pdo.html">Privacy Policy</a>
+									<div class="lastUpdate-container">
+										<p>Last revision date: 29 December, 2020</p>
+					</div>
+								</div>
+								<div class="cert_container">
+								
+									
+										<a target="_blank" href="https://www.ogcio.gov.hk/en/our_work/community/web_mobileapp_accessibility/index.html">
+											<img alt="Web for all" title="Web for all" src="/clpss/graphics/footer/WA_Gold_Logo.png"/>
+										</a>
+										<a target="_blank" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
+											<img title="W3C WAG" alt="W3C WCAG" src="/clpss/graphics/footer/w3c.jpg"/>
+										</a>
+										<a target="_blank" href="http://www.brandhk.gov.hk/brandhk/eindex.htm">
+											<img alt="Brand Hong Kong - Asia's world city" title="Brand Hong Kong - Asia's world city" src="/clpss/graphics/footer/brandhk.gif"/>
+											<span class="access">Brand Hong Kong - Asia's world city</span>
+										</a>
+									
+									
+								
+									
+								</div>
+							</div>
+							<div class="ft-copy">
+							
+								
+									<p>Copyright © 2018 Leisure and Cultural Services Department.</p>
+								<p>All Rights Reserved.</p>
+								
+							
+							
+								
+							</div>
+							
+						</div>
+						
+					</div>
+					
+					
+</footer>	
+	
+	
+	
+		
+<script type="text/javascript"
+	src="/clpss/scripts/jquery.bxslider.min.js"></script>
+
+
+<script type="text/javascript" src="/clpss/scripts/header_footer_main.js?v=1"></script>
+	
+<script>
+
+
+$(document).ready(function(){
+	if(document.getElementById("langToTranslate").value=="sc"){
+		translateBody();
+		var url = window.location.href;
+		if(url.indexOf('PhoneAddress')>= 0)
+			{
+				changeUrl();
+			}
+		
+		if(url.indexOf('NewsDetails')>= 0)
+		{
+			replace_duplicate();
+		}
+		
+	}
+	if (window.location.href.indexOf("onlineForm") > -1) {
+		$('.floatSide').hide();
+	}
+	
+	$('.floatSide_close').on('click', function(e){
+	      e.preventDefault();
+	      $('.floatSide').hide();
+	    });
+	
+	/*right promotion box code from old lcsd:start*/
+	var jsFloatSide = (function(){
+			
+	  var $floatSide, 
+	      $float_close;
+
+	  function setup(){
+	    $floatSide = $('.floatSide'),
+	    $float_close = $('.floatSide_close', $floatSide);
+
+	    $float_close.on('click', function(e){
+	    	
+	      e.preventDefault();
+	      $floatSide.hide();
+	    })
+	  }
+
+	  return {
+	    init: function(){
+	      setup();
+	    }
+	  }
+	}())
+
+	//Relocate Right Promotion Box to left hand side for mobile device
+	function relocateRightPromotionBoxForMobile(){
+	                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	                                $(".floatSide").css({"top":"35%", "left": "0"});
+	                }
+	}
+
+	relocateRightPromotionBoxForMobile();
+	/*right promotion box code from old lcsd:end*/
+
+});
+
+</script>
+</BODY>
+</HTML>
