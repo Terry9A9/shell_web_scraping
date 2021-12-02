@@ -117,6 +117,6 @@ elif [[ $up == update ]]
 then
     acquire_target
 else
-    echo -e "$urlname.data not found\nplz use \"bash ./ex006q1.sh update\""
+    echo -e "$urlname.data not found\nplz use \"bash ./lscd_ver_html.sh update\""
     exit 1
 fi
