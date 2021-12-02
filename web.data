@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]>     <html class="no-js ie9 lang-en" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js lang-en" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
+<link rel="apple-touch-icon" sizes="180x180" href="/cc/assets/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/cc/assets/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/cc/assets/img/favicon-16x16.png">
+<link rel="manifest" href="/cc/assets/img/manifest.json">
+<link rel="mask-icon" href="/cc/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+<base href="//www2.hkuspace.hku.hk/cc/" />
+<!--[if lt IE 9]>
+<script src="/cc/assets/js/theorigo/base_href_fix.js" type="text/javascript"></script>
+<![endif]-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P25ZRTW');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2236316499966763');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height=""1"" width=""1"" style=""display:none""
+  src=""https://www.facebook.com/tr?id=2236316499966763&ev=PageView&noscript=1""
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 762627472 -->
+<script async src=""https://www.googletagmanager.com/gtag/js?id=AW-762627472""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-762627472');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Marketing Platform -->
+<script async src=""https://www.googletagmanager.com/gtag/js?id=DC-9173748""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'DC-9173748');
+</script>
+<!-- End of global snippet: Please do not remove -->
+
+<title>Higher Diploma - Programmes - HKU SPACE Community College</title>
+              <link rel="stylesheet" href="/cc/assets/css/projectbase.css?timestamp=1601280392" media="all">
+              <link rel="stylesheet" href="/cc/assets/css/print.css?timestamp=1601280392" media="print">
+  <!--[if lt IE 9]>
+<script src="/cc/assets/js/lib/html5shiv.min.js" type="text/javascript"></script>
+<![endif]-->
+<script src="/cc/assets/js/lib/default.min.js"></script>
+      <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+                ga('create', 'UA-35700126-1', 'auto', {'name': 'tracker1'});
+      ga('tracker1.require', 'eventTracker');
+      ga('tracker1.require', 'outboundLinkTracker');
+      ga('tracker1.require', 'urlChangeTracker');
+      ga('tracker1.send', 'pageview');
+              </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <script async src='/cc/assets/lib/autotrack.js'></script>
+  
+</head>
+
+<body class="lang-en ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P25ZRTW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+(function(){
+var script0 = document.createElement("script");
+script0.src = "//j02.optimix.asia/events/opxLoader.js";
+script0.type = "text/javascript";
+script0.async = "async";
+document.getElementsByTagName("head")[0].appendChild(script0);
+var opxUid='0';
+var opxcounter='1';
+var opxClientID='5003';
+var opxParams="opxvrsn=ut;opxUid="+opxUid+";"+"opxClientID="+opxClientID+";"+"opxcounter="+opxcounter+";";
+if (script0.readyState) {
+  script0.onreadystatechange = function() {
+    if (script0.readyState == "loaded" || script0.readyState == "complete") {
+      opxLoad("//e02.optimix.asia", opxParams);
+    }
+  };
+} else {
+  script0.onload = function () {
+    opxLoad("//e02.optimix.asia", opxParams);
+  };
+}
+})();
+</script>
+
+<div class="wrapper">
+
+<a class="sr-only sr-only-focusable" id="skip-to-content" href="/cc/programme/higher-diploma#main">Skip to main content</a>
+<header class="page-head">
+
+  <div class="head-top">
+    <div class="container">
+      <ul class="tools hidden-sm hidden-xs">
+                  <ul class="header-links hidden-sm hidden-xs">
+
+                          <li class="header-links__item">
+                  <a href="https://hkuspace.hku.hk" target="_blank">HKU SPACE</a>
+              </li>
+                          <li class="header-links__item">
+                  <a href="/cc/special-weather-arrangement" >Special Weather Arrangement</a>
+              </li>
+                          <li class="header-links__item">
+                  <a href="https://learner.hkuspace.hku.hk/" target="_blank">Learner</a>
+              </li>
+                          <li class="header-links__item">
+                  <a href="https://si.hkuspace.hku.hk/" target="_blank">Staff</a>
+              </li>
+                          <li class="header-links__item">
+                  <a href="/cc/contact-us" >Contact Us</a>
+              </li>
+            
+          </ul>
+                        <li class="tools__item lang">
+                                                                                      <a class="lang__item" href="/cc/cht/programme/higher-diploma/">繁</a>
+                                                                              <a class="lang__item" href="/cc/chs/programme/higher-diploma/">簡</a>
+                                            </li>
+        <li class="tools__item social">
+          <button class="social__btn btn js-share" type="button">
+            <span class="sr-only">Share to</span>
+            <span class="icon-font icon--share"></span>
+          </button>
+          <ul class="social__list">
+            <li>
+              <a class="social__link social__link--fb" data-media="facebook" href="/cc/programme/higher-diploma#">Facebook</a>
+            </li>
+            <li>
+              <a class="social__link social__link--twitter" data-media="twitter" href="/cc/programme/higher-diploma#">Linkedin</a>
+            </li>
+            <li>
+              <a class="social__link social__link--mail" data-media="email" href="/cc/programme/higher-diploma#">Email</a>
+            </li>
+          </ul>
+        </li>
+        <li class="tools__item tools__item--search">
+            <form class="search" method="get" action="https://www.google.com/cse" target="_blank">
+              <button class="btn-search" type="submit"><span class="sr-only">Search</span>
+                <span class="icon-font icon--search" aria-hidden="true"></span>
+              </button>
+              <input class="search__box" type="text" name="q" placeholder="Search" title="Search">
+              <input type="hidden" name="cx" value="015448167718002291489:fsn2dyftxok">
+              <input type="hidden" name="ie" value="UTF-8">
+              <!-- <button class="btn-search" type="submit"><span class="sr-only">Search</span></button> -->
+            </form>
+        </li>
+      </ul>
+      <picture class="page-logo">
+         <img src="/cc/assets/img/logo_space_1x.png" srcset="/cc/assets/img/logo_space_2x.png 2x" alt="HKU SPACE Logo">
+      </picture>
+      <a class="page-logo page-logo--sub" href="/cc/">
+         <img src="/cc/assets/img/logo_1x.png" srcset="/cc/assets/img/logo_2x.png 2x" alt="HKU SPACE CC Logo">
+      </a>
+
+      <div class="mobi-menu-trigger visible-sm-block visible-xs-block">
+        <button class="btn btn--open-mobi-menu js-open-mobi-menu" type="button">
+          <span>
+            <span class="sr-only">Open menu</span>
+          </span>
+        </button>
+      </div>
+
+      <button class="announcement-btn-mobi btn visible-xs visible-sm js-open-announcement" type="button">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 32 32">
+          <path d="M25.905 13.714c0-4.724-3.197-8.533-7.619-9.6v-1.067c0-1.219-1.067-2.286-2.286-2.286s-2.286 1.067-2.286 2.286v1.067c-4.419 1.067-7.619 4.876-7.619 9.6v8.381l-3.048 3.048v1.524h25.905v-1.524l-3.048-3.048zM16 31.238h0.613c1.067-0.152 1.829-0.914 2.133-1.829 0.182-0.355 0.294-0.773 0.305-1.215l0-0.004h-6.095c0.005 1.68 1.365 3.041 3.044 3.048h0.001z" fill="#da4d20"></path>
+        </svg> 
+        <span class="sr-only">Special Announcement</span>
+      </button>  
+
+    </div>
+  </div>
+
+  <div class="head-btm hidden-sm hidden-xs">
+    <nav class="container menu"><ul class="menu__list menu__list--lv1"><li class="menu__item menu__item--lv1" ><a class="menu__link menu__link--lv1" href="https://hkuspace.hku.hk/cc" ><span class="menu__text menu__text--lv1">Home</span></a></li><li class="menu__item menu__item--lv1 has-sub menu__item--prog" ><a class="menu__link menu__link--lv1" href="/cc/programme" ><span class="menu__text menu__text--lv1">Programmes</span></a><div class="menu__blk menu__blk--2col clearfix"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/associate-degree" ><span class="menu__text menu__text--lv2">Associate Degree</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/higher-diploma" ><span class="menu__text menu__text--lv2">Higher Diploma</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/diploma-in-foundation-studies" ><span class="menu__text menu__text--lv2">Diploma in Foundation Studies</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/applied-learning" ><span class="menu__text menu__text--lv2">Applied Learning</span></a></li></ul><ul class="menu__list menu__list--lv2-col menu__list--prog"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/arts-and-humanities" ><span class="menu__text menu__text--lv2">Arts &amp; Humanities</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/english" ><span class="menu__text menu__text--lv2">English</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/business-and-economics" ><span class="menu__text menu__text--lv2">Economics &amp; Business</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/mathematics-and-science" ><span class="menu__text menu__text--lv2">Mathematics &amp; Science</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/engineering-and-technology" ><span class="menu__text menu__text--lv2">Engineering &amp; Technology</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/programme/social-sciences" ><span class="menu__text menu__text--lv2">Social Sciences</span></a></li></ul></div></li><li class="menu__item menu__item--lv1 has-sub menu__item--admi" ><a class="menu__link menu__link--lv1" href="/cc/admission" ><span class="menu__text menu__text--lv1">Admission</span></a><div class="menu__blk menu__blk--2col clearfix"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/general-entrance-requirements" ><span class="menu__text menu__text--lv2">General Entrance Requirements</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/application-procedures" ><span class="menu__text menu__text--lv2">Application Procedures</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/online-application" ><span class="menu__text menu__text--lv2">Online Application</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/definition-of-non-local-applicants" ><span class="menu__text menu__text--lv2">Definition of Non-Local Applicants</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/tuition-fee-and-other-fees" ><span class="menu__text menu__text--lv2">Tuition Fee &amp; Other Fees</span></a></li></ul><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/ienrol" ><span class="menu__text menu__text--lv2">iEnrol</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/scholarships-and-awards" ><span class="menu__text menu__text--lv2">Scholarships &amp; Awards</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/financial-assistance" ><span class="menu__text menu__text--lv2">Financial Assistance</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="http://hkuspace.hku.hk/learning-centre" target="_blank" ><span class="menu__text menu__text--lv2">Enrolment Centres</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/admission/faq" ><span class="menu__text menu__text--lv2">FAQ</span></a></li><li class="menu__item menu__item--lv2 has-sub" ><a class="menu__link menu__link--lv2" href="/cc/admission/admission-for-mainland-students" ><span class="menu__text menu__text--lv2">Admission for Mainland Students</span></a><ul class="menu__list menu__list--lv3-col"><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland_news" ><span class="menu__text menu__text--lv3">Latest News</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-about-us" ><span class="menu__text menu__text--lv3">About Us</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-programme-choices" ><span class="menu__text menu__text--lv3">Programme Choices</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-recognition" ><span class="menu__text menu__text--lv3">Recognition</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-through-train-pre-enrolment-scheme" ><span class="menu__text menu__text--lv3">Through-train Pre-enrolment Scheme</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-service" ><span class="menu__text menu__text--lv3">Service</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-graduates-success-stories" ><span class="menu__text menu__text--lv3">Graduates' Success Stories</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-students-sharing" ><span class="menu__text menu__text--lv3">Students' Sharing</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-application" ><span class="menu__text menu__text--lv3">Application</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/admission/admission-for-mainland-students/mainland-faq" ><span class="menu__text menu__text--lv3">FAQ</span></a></li></ul></li></ul></div></li><li class="menu__item menu__item--lv1 has-sub menu__item--stud" ><a class="menu__link menu__link--lv1" href="/cc/student-development" ><span class="menu__text menu__text--lv1">Student Development</span></a><div class="menu__blk"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/student-development/student-development-and-counselling-services" ><span class="menu__text menu__text--lv2">Student Development and Counselling Services</span></a></li><li class="menu__item menu__item--lv2 has-sub" ><a class="menu__link menu__link--lv2" href="/cc/student-development/student-activities" ><span class="menu__text menu__text--lv2">Student Activities</span></a><ul class="menu__list menu__list--lv3-col"><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/student-development/student-activities/student-exchange-and-internship-programmes" ><span class="menu__text menu__text--lv3">Student Exchange &amp; Internship Programmes</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/student-development/student-activities/english-extra-curricular-activities" ><span class="menu__text menu__text--lv3">English Extra-curricular Activities</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/student-development/student-activities/students-union" ><span class="menu__text menu__text--lv3">Students' Union</span></a></li></ul></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/student-development/parents-corner" ><span class="menu__text menu__text--lv2">Parents' Corner</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/student-development/learning-facilities" ><span class="menu__text menu__text--lv2">Learning Facilities</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/student-development/alumni" ><span class="menu__text menu__text--lv2">Alumni</span></a></li></ul></div></li><li class="menu__item menu__item--lv1 has-sub menu__item--arti" ><a class="menu__link menu__link--lv1" href="/cc/articulation" ><span class="menu__text menu__text--lv1">Articulation </span></a><div class="menu__blk"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/articulation/facts-and-figures" ><span class="menu__text menu__text--lv2">Facts and Figures</span></a></li><li class="menu__item menu__item--lv2 has-sub" ><a class="menu__link menu__link--lv2" href="/cc/articulation/progression-path" ><span class="menu__text menu__text--lv2">Progression Path</span></a><ul class="menu__list menu__list--lv3-col"><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/articulation/progression-path/hku-space-international-college" ><span class="menu__text menu__text--lv3">HKU SPACE International College</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/articulation/progression-path/through-train-pre-enrolment-scheme" ><span class="menu__text menu__text--lv3">Through-train Pre-enrolment Scheme</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/articulation/progression-path/overseas-universities" ><span class="menu__text menu__text--lv3">Overseas Universities</span></a></li></ul></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/articulation/sharing-videos" ><span class="menu__text menu__text--lv2">CC Students' Sharing Videos</span></a></li></ul></div></li><li class="menu__item menu__item--lv1 has-sub menu__item--news" ><a class="menu__link menu__link--lv1" href="/cc/news-and-events" ><span class="menu__text menu__text--lv1">News &amp; Events</span></a><div class="menu__blk"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/news-and-events/news" ><span class="menu__text menu__text--lv2">News</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/news-and-events/events" ><span class="menu__text menu__text--lv2">Events</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/publication" ><span class="menu__text menu__text--lv2">Publications</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/college-life/photo" ><span class="menu__text menu__text--lv2">Photo Gallery</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/college-life/video" ><span class="menu__text menu__text--lv2">Video Gallery</span></a></li></ul></div></li><li class="menu__item menu__item--lv1 has-sub menu__item--abou" ><a class="menu__link menu__link--lv1" href="/cc/about-us" ><span class="menu__text menu__text--lv1">About Us</span></a><div class="menu__blk"><ul class="menu__list menu__list--lv2-col"><li class="menu__item menu__item--lv2 has-sub" ><a class="menu__link menu__link--lv2" href="/cc/about-us/about-the-college" ><span class="menu__text menu__text--lv2">About the College</span></a><ul class="menu__list menu__list--lv3-col"><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/about-us/about-the-college/message-from-the-college-principal" ><span class="menu__text menu__text--lv3">Message from the College Principal</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/about-us/about-the-college/vision-and-missions" ><span class="menu__text menu__text--lv3">Vision and Missions</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/about-us/about-the-college/our-campuses" ><span class="menu__text menu__text--lv3">Our Campuses</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="https://hkuspace.hku.hk/news/detail/hku-space-was-highly-commended-for-outstanding-academic-excellence/" target="_blank" ><span class="menu__text menu__text--lv3">Report of a Quality Audit</span></a></li></ul></li><li class="menu__item menu__item--lv2 has-sub" ><a class="menu__link menu__link--lv2" href="/cc/about-us/our-services-to-the-community" ><span class="menu__text menu__text--lv2">Our Services to the Community</span></a><ul class="menu__list menu__list--lv3-col"><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/about-us/our-services-to-the-community/community-engagement-initiatives" ><span class="menu__text menu__text--lv3">Community Engagement Initiatives</span></a></li><li class="menu__item menu__item--lv3" ><a class="menu__link menu__link--lv3" href="/cc/about-us/our-services-to-the-community/services-to-secondary-school" ><span class="menu__text menu__text--lv3">Services to Secondary School</span></a></li></ul></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/about-us/staff-directory" ><span class="menu__text menu__text--lv2">Staff Directory</span></a></li><li class="menu__item menu__item--lv2" ><a class="menu__link menu__link--lv2" href="/cc/about-us/contact-us" ><span class="menu__text menu__text--lv2">Contact Us</span></a></li></ul></div></li></ul></nav>
+  </div>
+
+</header>
+<main class="page-content" id="main" tabindex="-1">
+
+<div class="shortcut-cont hidden-xs">
+      <a  href="/cc/programme" class="shortcut-cont__block">
+      <span class="icon-font icon-book"></span>
+      OUR PROGRAMMES
+    </a>
+        <a  href="/cc/admission/application-procedures" class="shortcut-cont__block">
+      <span class="icon-font icon-write"></span>
+      APPLY
+    </a>
+    </div>
+<div class="page-container page--prog">
+ <div class="container">
+   <div class="inner-cont">
+    <div class="inner-head">
+        <ol class="breadcrumb hidden-xs">
+<li><a href="/cc/">Home</a></li>
+
+                      <li><a href="/cc/programme" >Programmes</a></li><li class="dropdown"><button class="btn btn-breadcrumb dropdown-toggle" type="button" data-toggle="dropdown">Higher Diploma<span class="icon-font icon-down-circle"></span></button><ul class="dropdown-menu"><li class="breadcrumb-lv2" ><a href="/cc/programme/associate-degree" >Associate Degree</a></li><li class="breadcrumb-lv2 selected " ><a href="/cc/programme/higher-diploma" >Higher Diploma</a></li><li class="breadcrumb-lv2" ><a href="/cc/programme/diploma-in-foundation-studies" >Diploma in Foundation Studies</a></li><li class="breadcrumb-lv2" ><a href="/cc/programme/applied-learning" >Applied Learning</a></li></ul></li>
+          
+</ol>
+    <h1 class="page-title">Programmes</h1>
+            </div>
+    
+    <div class="inner-content">
+
+      
+              <div class="full-width-row full-width-row--top">
+          <div class="right-block">
+            <div class="filter-dropdown">
+              Subject
+              <div class="dropdown">
+                <button class="btn btn-filter-dropdown dropdown-toggle" type="button" data-toggle="dropdown">All<span class="icon-font icon--down-lg"></span>
+                  <span class="caret"></span></button>
+                  <ul class="dropdown-menu">
+                    <li><a href="/cc/programme/higher-diploma">All</a></li>
+                                                                  <li><a href="/cc/programme/higher-diploma/arts-and-humanities">Arts &amp; Humanities</a></li>
+                                              <li><a href="/cc/programme/higher-diploma/english">English</a></li>
+                                              <li><a href="/cc/programme/higher-diploma/business-and-economics">Economics &amp; Business</a></li>
+                                              <li><a href="/cc/programme/higher-diploma/mathematics-and-science">Mathematics &amp; Science</a></li>
+                                              <li><a href="/cc/programme/higher-diploma/engineering-and-technology">Engineering &amp; Technology</a></li>
+                                              <li><a href="/cc/programme/higher-diploma/social-sciences">Social Sciences</a></li>
+                                                            </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+
+                        <div class="full-width-row">
+                          <div class="three-col-cont">
+                                                                                                                                                                                                                                                                                                                                                                  <h2 class="row-title">Arts &amp; Humanities</h2>
+                                            <div class="icon-block icon-block--arts">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png" srcset="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png 1x, /cc/f/subject_of_study/10058/82c82/logo-arts-1.png 2x" alt="Arts &amp; Humanities Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/architectural-studies" class="prog">Higher Diploma in Architectural Studies</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                              <div class="icon-block icon-block--arts">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png" srcset="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png 1x, /cc/f/subject_of_study/10058/82c82/logo-arts-1.png 2x" alt="Arts &amp; Humanities Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/chinese-for-professional-communication" class="prog">Higher Diploma in Chinese for Professional  Communication</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <div class="icon-block icon-block--arts">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png" srcset="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png 1x, /cc/f/subject_of_study/10058/82c82/logo-arts-1.png 2x" alt="Arts &amp; Humanities Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/interior-design" class="prog">Higher Diploma in Interior Design</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              <div class="icon-block icon-block--arts">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png" srcset="/cc/f/subject_of_study/10058/41c41/logo-arts-1.png 1x, /cc/f/subject_of_study/10058/82c82/logo-arts-1.png 2x" alt="Arts &amp; Humanities Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/visual-communication" class="prog">Higher Diploma in Visual Communication</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                          <div class="three-col-cont">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <h2 class="row-title">English</h2>
+                                            <div class="icon-block icon-block--pen">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/40213/41c41/spare2%20-%20square_1510910236.png" srcset="/cc/f/subject_of_study/40213/41c41/spare2%20-%20square_1510910236.png 1x, /cc/f/subject_of_study/40213/82c82/spare2%20-%20square_1510910236.png 2x" alt="Arts &amp; Humanities Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/translation-and-interpretation" class="prog">Higher Diploma in Translation and Interpretation</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                          <div class="three-col-cont">
+                                                                                                                                                                                                                  <h2 class="row-title">Economics &amp; Business</h2>
+                                            <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/global-supply-chain-management" class="prog"> Higher Diploma in Global Supply Chain Management</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <a href="/cc/higher-diploma/higher-diploma-in-business" class="prog">Higher Diploma in Business</a>
+                                                                      <a href="/cc/higher-diploma/financial-services" class="subj"> Financial Services</a>
+                                                                                                                                                                                                                                                                                                           </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <a href="/cc/higher-diploma/higher-diploma-in-business" class="prog">Higher Diploma in Business</a>
+                                                                      <a href="/cc/higher-diploma/economics" class="subj">Economics</a>
+                                                                                                                                                                                                                                                                                                           </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <a href="/cc/higher-diploma/higher-diploma-in-business" class="prog">Higher Diploma in Business</a>
+                                                                      <a href="/cc/higher-diploma/financial-technology" class="subj">Financial Technology</a>
+                                                                                                                                                                                                                                                                                                           </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <a href="/cc/higher-diploma/marketing" class="prog">Higher Diploma in Marketing</a>
+                                                                      <a href="/cc/higher-diploma/marketing-and-advertising" class="subj"> Marketing and Advertising</a>
+                                                                                                                                                                                                                                             </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--busi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png" srcset="/cc/f/subject_of_study/10060/41c41/logo-busi-1.png 1x, /cc/f/subject_of_study/10060/82c82/logo-busi-1.png 2x" alt="Economics &amp; Business" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <a href="/cc/higher-diploma/marketing" class="prog">Higher Diploma in Marketing</a>
+                                                                      <a href="/cc/higher-diploma/marketing-and-management" class="subj"> Marketing and Management</a>
+                                                                                                                                                                                                                                             </div>
+                      </div>
+                     </div>
+                                                                    </div>
+                          <div class="three-col-cont">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <h2 class="row-title">Mathematics &amp; Science</h2>
+                                            <div class="icon-block icon-block--math">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10059/41c41/logo-math-1.png" srcset="/cc/f/subject_of_study/10059/41c41/logo-math-1.png 1x, /cc/f/subject_of_study/10059/82c82/logo-math-1.png 2x" alt="Mathematics &amp; Science" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/dental_hygiene" class="prog">Higher Diploma in Dental Hygiene</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                      <div class="icon-block icon-block--math">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10059/41c41/logo-math-1.png" srcset="/cc/f/subject_of_study/10059/41c41/logo-math-1.png 1x, /cc/f/subject_of_study/10059/82c82/logo-math-1.png 2x" alt="Mathematics &amp; Science" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/healthcare-and-health-plan-administration" class="prog">Higher Diploma in Healthcare and Health Plan Administration</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                          <div class="three-col-cont">
+                                                                                                                                          <h2 class="row-title">Engineering &amp; Technology</h2>
+                                            <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/higher-diploma-in-data-science" class="prog"> Higher Diploma in Data Science</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                      <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/airline-and-airport-services" class="prog">Higher Diploma in Airline and Airport Services</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                      <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/higher-diploma-in-aviation-and-piloting" class="prog">Higher Diploma in Aviation and Piloting</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/aviation-studies" class="prog">Higher Diploma in Aviation Studies</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/engineering" class="prog">Higher Diploma in Engineering</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/higher-diploma-in-esports" class="prog">Higher Diploma in eSports</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/higher-diploma-in-geotechnical-engineering" class="prog">Higher Diploma in Geotechnical Engineering</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                      <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/information-security" class="prog">Higher Diploma in Information Security</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/information-technology" class="prog">Higher Diploma in Information Technology</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                              <div class="icon-block icon-block--engi">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png" srcset="/cc/f/subject_of_study/10061/41c41/logo-engi-1.png 1x, /cc/f/subject_of_study/10061/82c82/logo-engi-1.png 2x" alt="Engineering &amp; Technology Icon" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/new-media-and-communication" class="prog">Higher Diploma in New Media and Communication</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                          <div class="three-col-cont">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <h2 class="row-title">Social Sciences</h2>
+                                            <div class="icon-block icon-block--soci">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10082/41c41/logo-soci-1.png" srcset="/cc/f/subject_of_study/10082/41c41/logo-soci-1.png 1x, /cc/f/subject_of_study/10082/82c82/logo-soci-1.png 2x" alt="Social Sciences" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/library-and-information-management" class="prog">Higher Diploma in Library and Information Management</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                      <div class="icon-block icon-block--soci">
+                       <div class="icon-block__cont">
+                         <div class="item-desc">
+                            <img src="/cc/f/subject_of_study/10082/41c41/logo-soci-1.png" srcset="/cc/f/subject_of_study/10082/41c41/logo-soci-1.png 1x, /cc/f/subject_of_study/10082/82c82/logo-soci-1.png 2x" alt="Social Sciences" />
+                          HD
+                         </div>
+                         <div class="text">
+                                                                                    <a href="/cc/higher-diploma/prcc" class="prog">Higher Diploma in Public Relations and Corporate Communications</a>
+                                                                               </div>
+                      </div>
+                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                      </div>
+              
+    </div>
+
+  </div>
+ </div>
+</div>
+</main>
+<footer class="page-foot">
+
+  <div class="container cf">
+    <div class="btn-top-box">
+      <button class="btn btn--top js-top" type="button">Top</button>
+    </div>
+    <div class="footer-col">
+
+
+
+
+               <div class="footer-col__slider">
+          You may want to know ...
+         <div class="slider slider--5">
+                              <div class="slider-item">
+              <a  href="http://hkuspace.hku.hk/" target="_blank">
+                <img src="/cc/f/miscellaneous/10110/191p41/footer-space-2x.png" srcset="/cc/f/miscellaneous/10110/191p41/footer-space-2x.png 1x, /cc/f/miscellaneous/10110/382p82/footer-space-2x.png 2x" alt="HKU SPACE" />
+              </a>
+            </div>
+                                        <div class="slider-item">
+              <a  href="http://hkuspace.hku.hk/ic" target="_blank">
+                <img src="/cc/f/miscellaneous/10110/191p41/IC_LOGO.png" srcset="/cc/f/miscellaneous/10110/191p41/IC_LOGO.png 1x, /cc/f/miscellaneous/10110/382p82/IC_LOGO.png 2x" alt="HKU SPACE IC" />
+              </a>
+            </div>
+                                        <div class="slider-item">
+              <a  href="http://hkuspace-plk.hku.hk/" target="_blank">
+                <img src="/cc/f/miscellaneous/10110/191p41/plk.png" srcset="/cc/f/miscellaneous/10110/191p41/plk.png 1x, /cc/f/miscellaneous/10110/382p82/plk.png 2x" alt="HKU SPACE-PLK SHCC" />
+              </a>
+            </div>
+                          </div></div>
+      
+
+
+      <div class="hidden-xs">
+
+                  <ul class="foot-links list-unstyled">
+
+                          <li class="foot-links__item">
+                <a class="foot-links__link" href="/cc/publishing-policy" >Publishing Policy</a>
+              </li>
+                          <li class="foot-links__item">
+                <a class="foot-links__link" href="/cc/privacy-policy" >Privacy Policy</a>
+              </li>
+                          <li class="foot-links__item">
+                <a class="foot-links__link" href="/cc/sitemap" >Site Map</a>
+              </li>
+            
+          </ul>
+        
+        <div class="copyright">Copyright © 2020 HKU SPACE. all rights reserved.<br />HKU SPACE is a non-profit making University company limited by guarantee.</div>
+      </div>
+    </div>
+    <div class="footer-col contact-block">
+      <div class="footer-col__text">
+        HKU SPACE Community College
+      </div>
+      <div class="footer-col__text address">
+        28 Wang Hoi Road, Kowloon Bay, Kowloon
+      </div>
+      <div class="footer-col__text telephone">
+        <span class="icon-font icon--phone"></span>3416 6338
+      </div>
+      <div class="footer-col__social">
+        <div class="circle-block">
+          <a href="mailto:ccadmissions@hkuspace.hku.hk" target="_blank"><img src="/cc/assets/img/footer-mail.png" srcset="/cc/assets/img/footer-mail.png 2x" alt="Mail"/></a>
+        </div>
+        <div class="circle-block">
+          <a href="https://www.facebook.com/hkuspacecc" target="_blank"><img src="/cc/assets/img/footer-facebook.png" srcset="/cc/assets/img/footer-facebook.png 2x" alt="Facebook"/></a>
+        </div>
+        <div class="circle-block">
+          <a href="https://www.instagram.com/hkuspace_cc/" target="_blank"><img src="/cc/assets/img/footer-instagram.png" srcset="/cc/assets/img/footer-instagram.png 2x" alt="Instagram"/></a>
+        </div>
+        <div class="circle-block">
+          <a href="http://www.youtube.com/user/hkuspacehost" target="_blank"><img src="/cc/assets/img/footer-youtube.png" srcset="/cc/assets/img/footer-youtube.png 2x" alt="YouTube"/></a>
+        </div>
+        <div class="circle-block">
+          <a href="http://e.weibo.com/u/2079740135?ref=http%3A%2F%2Fs.weibo.com%2Fweibo%2F%2525E9%2525A6%252599%2525E6%2525B8%2525AF%2525E5%2525A4%2525A7%2525E5%2525AD%2525B8%2525E9%252599%252584%2525E5%2525B1%2525AC%2525E5%2525AD%2525B8%2525E9%252599%2525A2%26Refer%3DSTopic_box" target="_blank"><img src="/cc/assets/img/footer-weibo.png" srcset="/cc/assets/img/footer-weibo.png 2x" alt="Weibo"/></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-col visible-xs">
+              <ul class="foot-links list-unstyled">
+
+                      <li class="foot-links__item">
+              <a class="foot-links__link" href="/cc/publishing-policy">Publishing Policy</a>
+            </li>
+                      <li class="foot-links__item">
+              <a class="foot-links__link" href="/cc/privacy-policy">Privacy Policy</a>
+            </li>
+                      <li class="foot-links__item">
+              <a class="foot-links__link" href="/cc/sitemap">Site Map</a>
+            </li>
+          
+        </ul>
+      
+      <div class="copyright">Copyright © 2020 HKU SPACE. all rights reserved.</div>
+    </div>
+
+
+
+  </div>
+
+  <div class="shortcut-cont shortcut-cont--mobile visible-xs">
+    <a href="/cc/" class="shortcut-cont__block">
+      <span class="icon-font icon-home"></span>
+      HOME
+    </a>
+          <a  href="/cc/programme" class="shortcut-cont__block">
+        <span class="icon-font icon-book"></span>
+        OUR PROGRAMMES
+      </a>
+              <a  href="/cc/admission/application-procedures" class="shortcut-cont__block">
+        <span class="icon-font icon-write"></span>
+        APPLY
+      </a>
+          </div>
+
+</footer>
+
+<div class="query-crt-mobile query-crt"></div>
+<div class="query-crt-tablet query-crt"></div>
+<div class="query-crt-desktop query-crt"></div>
+</div>
+      <script src="/cc/assets/js/projectbase.js?timestamp=1601280392"></script>
+  
+</body>
+</html>
