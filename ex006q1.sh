@@ -1,10 +1,6 @@
 #!/bin/bash
-#Student Name : Leung Ho shek
-#Student ID : 20037755
-#Class : CCIT 4052 CL01
-#Group : CL01B
-#Programming Exercise : 006 
-#Question Number : 01
+#Dev By: Terry9A9
+
 #Last Update : 2020-11-30 23:58
 #------------------
 up=$(echo $1 | tr '[:upper:]' '[:lower:]')
